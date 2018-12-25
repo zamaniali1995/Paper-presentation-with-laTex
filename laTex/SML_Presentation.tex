@@ -306,6 +306,83 @@ Amirkabir University of Technology \\ % Your institution for the title page
 \end{frame}
 \section{Reward}
 \begin{frame}
-\frametitle{Reward}	
+\frametitle{Reward}
+	\begin{itemize}
+		\item {revenue of accepting a virtual network request $R(G^v,t,t_d)=t_d.[\sum_{n^v \in N^v}CPU(n^v)+\sum_{l^v \in L^v}BW(l^v)]$}
+		\item {cost function: $C(G^v,t,t_d)=t_d.[\sum_{l^v \in L^v} \sum _{l^s \in P`_{l^v}}BW(l^v)]$}
+		\item {long-term average revenue: $\lim\limits_{T \to \infty}\frac{\sum_{t=0}^TR(G^v,t,t_d)}{T}$}
+		\item{long-term revenue to cost
+			ratio: $\lim\limits_{T \to \infty} \frac{\sum_{t=0}^TR(G^v,t,t_d)}{\sum_{t=0}^TC(G^v,t,t_d)}$ }
+	\end{itemize}
+\begin{figure}
+	\centering
+	\includegraphics[width=0.3\linewidth]{../Images/reward}
+	\label{fig:reward}
+\end{figure}
+
+\end{frame}
+
+\section{Evaluation}
+\begin{frame}
+	\frametitle{Evaluation}
+	\begin{itemize}
+		\item {network
+			with 100 nodes and approximately 550 links}
+		\item {capacity of every substrate node
+		$\to$ uniform distribution between 50
+			and 100}
+		\item {bandwidth of every link $\to$ uniform distribution between 20 and 50}
+		\item {generated a number of virtual requests $\to$each with 2–10
+			virtual nodes
+		}
+	\item {computing capacity requirement of every virtual
+		node $\to$ uniform distribution between 0 and 50 units}
+	\item {bandwidth requirement of every virtual link $\to$ uniform distribution between 0 and 50 units}
+	\item {100 epochs}
+	\item {gradient descent with a learning rate of 0.005}
+	\end{itemize}
+\begin{figure}
+	\centering
+	\includegraphics[width=0.1\linewidth]{../Images/evaluation}
+	\label{fig:evaluation}
+\end{figure}
+
+\end{frame}
+\begin{frame}
+	\frametitle{Evaluation}
+	
+\begin{figure}
+	\centering
+	\includegraphics[scale=0.35]{../Images/fig1}
+	\caption{Performance on training set}
+	\label{fig:fig1}
+\end{figure}
+\end{frame}
+\begin{frame}
+	\frametitle{Evaluation}
+	
+\begin{figure}
+	\centering
+	\includegraphics[width=0.9\linewidth]{../Images/fig2}
+	\caption{Loss on training set}
+	\label{fig:fig2}
+\end{figure}
+\end{frame}
+\begin{frame}
+	\frametitle{Evaluation}
+\begin{figure}
+	\centering
+	\includegraphics[scale=0.34]{../Images/fig3}
+	\caption{Performance on testing set}
+	\label{fig:fig3}
+\end{figure}	
+\end{frame}
+\begin{frame}
+\begin{figure}
+	\centering
+	\includegraphics[width=0.8\linewidth]{../Images/Q&A}
+	\label{fig:qa}
+\end{figure}
+	
 \end{frame}
 \end{document} 

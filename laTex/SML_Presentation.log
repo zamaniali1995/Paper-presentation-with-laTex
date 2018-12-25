@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.12.17)  25 DEC 2018 04:39
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.12.17)  25 DEC 2018 05:34
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -867,7 +867,7 @@ Dictionary: translator-theorem-dictionary, Language: English
 2
 
 ]
-<../Images/Network.png, id=139, 1061.9675pt x 656.4525pt>
+<../Images/Network.png, id=146, 1061.9675pt x 656.4525pt>
 File: ../Images/Network.png Graphic file (type png)
 <use ../Images/Network.png>
 Package pdftex.def Info: ../Images/Network.png  used on input line 113.
@@ -892,7 +892,7 @@ line 130.
 File: ot1mathkerncmss.fd 2013/03/27 Fontinst v1.933 font definitions for OT1/ma
 thkerncmss.
 )
-<../Images/modeling.jpg, id=171, 853.1875pt x 998.73125pt>
+<../Images/modeling.jpg, id=178, 853.1875pt x 998.73125pt>
 File: ../Images/modeling.jpg Graphic file (type jpg)
 <use ../Images/modeling.jpg>
 Package pdftex.def Info: ../Images/modeling.jpg  used on input line 130.
@@ -904,7 +904,7 @@ Overfull \vbox (45.95065pt too high) detected at line 130
 [4
 
  <../Images/modeling.jpg>]
-<../Images/policyNetwork.png, id=203, 1148.29pt x 409.53pt>
+<../Images/policyNetwork.png, id=210, 1148.29pt x 409.53pt>
 File: ../Images/policyNetwork.png Graphic file (type png)
 <use ../Images/policyNetwork.png>
 Package pdftex.def Info: ../Images/policyNetwork.png  used on input line 140.
@@ -912,7 +912,7 @@ Package pdftex.def Info: ../Images/policyNetwork.png  used on input line 140.
  [5
 
  <../Images/policyNetwork.png>]
-<../Images/feature2.png, id=233, 40.33044pt x 34.10495pt>
+<../Images/feature2.png, id=240, 40.33044pt x 34.10495pt>
 File: ../Images/feature2.png Graphic file (type png)
 <use ../Images/feature2.png>
 Package pdftex.def Info: ../Images/feature2.png  used on input line 161.
@@ -936,7 +936,7 @@ l.170 \end{frame}
                   [7
 
 ]
-<../Images/Conv_layer.png, id=298, 229.85875pt x 154.5775pt>
+<../Images/Conv_layer.png, id=305, 229.85875pt x 154.5775pt>
 File: ../Images/Conv_layer.png Graphic file (type png)
 <use ../Images/Conv_layer.png>
 Package pdftex.def Info: ../Images/Conv_layer.png  used on input line 186.
@@ -956,7 +956,7 @@ l.196 \end{frame}
                   [9
 
 ]
-<../Images/softmaxLayer.jpeg, id=356, 225.84375pt x 225.84375pt>
+<../Images/softmaxLayer.jpeg, id=363, 225.84375pt x 225.84375pt>
 File: ../Images/softmaxLayer.jpeg Graphic file (type jpg)
 <use ../Images/softmaxLayer.jpeg>
 Package pdftex.def Info: ../Images/softmaxLayer.jpeg  used on input line 212.
@@ -964,7 +964,7 @@ Package pdftex.def Info: ../Images/softmaxLayer.jpeg  used on input line 212.
  [10
 
  <../Images/softmaxLayer.jpeg>]
-<../Images/filter.jpg, id=386, 351.3125pt x 351.3125pt>
+<../Images/filter.jpg, id=393, 351.3125pt x 351.3125pt>
 File: ../Images/filter.jpg Graphic file (type jpg)
 <use ../Images/filter.jpg>
 Package pdftex.def Info: ../Images/filter.jpg  used on input line 227.
@@ -984,7 +984,7 @@ l.236 \end{frame}
                   [12
 
 ]
-<../Images/roletWheel.png, id=442, 225.84375pt x 225.84375pt>
+<../Images/roletWheel.png, id=449, 225.84375pt x 225.84375pt>
 File: ../Images/roletWheel.png Graphic file (type png)
 <use ../Images/roletWheel.png>
 Package pdftex.def Info: ../Images/roletWheel.png  used on input line 256.
@@ -992,7 +992,7 @@ Package pdftex.def Info: ../Images/roletWheel.png  used on input line 256.
  [13
 
  <../Images/roletWheel.png>]
-<../Images/training.jpg, id=475, 2509.375pt x 1673.25125pt>
+<../Images/training.jpg, id=483, 2509.375pt x 1673.25125pt>
 File: ../Images/training.jpg Graphic file (type jpg)
 <use ../Images/training.jpg>
 Package pdftex.def Info: ../Images/training.jpg  used on input line 276.
@@ -1004,7 +1004,7 @@ Overfull \vbox (1.20114pt too high) detected at line 276
 [14
 
  <../Images/training.jpg>]
-<../Images/training2.png, id=505, 268.00125pt x 189.70876pt>
+<../Images/training2.png, id=512, 268.00125pt x 189.70876pt>
 File: ../Images/training2.png Graphic file (type png)
 <use ../Images/training2.png>
 Package pdftex.def Info: ../Images/training2.png  used on input line 293.
@@ -1016,16 +1016,75 @@ Overfull \vbox (3.87209pt too high) detected at line 293
 [15
 
  <../Images/training2.png>]
-<../Images/Test2.png, id=535, 598.235pt x 491.8375pt>
+<../Images/Test2.png, id=542, 598.235pt x 491.8375pt>
 File: ../Images/Test2.png Graphic file (type png)
 <use ../Images/Test2.png>
 Package pdftex.def Info: ../Images/Test2.png  used on input line 306.
 (pdftex.def)             Requested size: 136.91603pt x 112.56488pt.
  [16
 
- <../Images/Test2.png>] [17
+ <../Images/Test2.png>]
+<../Images/reward.png, id=572, 257.96375pt x 196.735pt>
+File: ../Images/reward.png Graphic file (type png)
+<use ../Images/reward.png>
+Package pdftex.def Info: ../Images/reward.png  used on input line 323.
+(pdftex.def)             Requested size: 102.68962pt x 78.31435pt.
+ [17
 
-]
+ <../Images/reward.png>]
+Missing character: There is no â in font cmss10!
+Missing character: There is no € in font cmss10!
+Missing character: There is no “ in font cmss10!
+<../Images/evaluation.png, id=602, 189.70876pt x 181.67876pt>
+File: ../Images/evaluation.png Graphic file (type png)
+<use ../Images/evaluation.png>
+Package pdftex.def Info: ../Images/evaluation.png  used on input line 350.
+(pdftex.def)             Requested size: 34.23161pt x 32.78114pt.
+ [18
+
+ <../Images/evaluation.png>]
+<../Images/fig1.png, id=632, 983.675pt x 263.98625pt>
+File: ../Images/fig1.png Graphic file (type png)
+<use ../Images/fig1.png>
+Package pdftex.def Info: ../Images/fig1.png  used on input line 360.
+(pdftex.def)             Requested size: 344.29141pt x 92.39656pt.
+
+Overfull \hbox (1.99611pt too wide) in paragraph at lines 360--360
+ [] 
+ []
+
+[19
+
+ <../Images/fig1.png>]
+<../Images/fig2.png, id=663, 566.115pt x 306.14375pt>
+File: ../Images/fig2.png Graphic file (type png)
+<use ../Images/fig2.png>
+Package pdftex.def Info: ../Images/fig2.png  used on input line 370.
+(pdftex.def)             Requested size: 308.06367pt x 166.59978pt.
+ [20
+
+ <../Images/fig2.png>]
+<../Images/fig3.png, id=693, 1037.8775pt x 272.01625pt>
+File: ../Images/fig3.png Graphic file (type png)
+<use ../Images/fig3.png>
+Package pdftex.def Info: ../Images/fig3.png  used on input line 379.
+(pdftex.def)             Requested size: 352.87369pt x 92.4843pt.
+
+Overfull \hbox (10.57838pt too wide) in paragraph at lines 379--379
+ [] 
+ []
+
+[21
+
+ <../Images/fig3.png>]
+<../Images/Q&A.jpg, id=723, 462.528pt x 248.6088pt>
+File: ../Images/Q&A.jpg Graphic file (type jpg)
+<use ../Images/Q&A.jpg>
+Package pdftex.def Info: ../Images/Q&A.jpg  used on input line 387.
+(pdftex.def)             Requested size: 273.83728pt x 147.19382pt.
+ [22
+
+ <../Images/Q&A.jpg>]
 \tf@nav=\write6
 \openout6 = `SML_Presentation.nav'.
 
@@ -1035,30 +1094,23 @@ Package pdftex.def Info: ../Images/Test2.png  used on input line 306.
 \tf@snm=\write8
 \openout8 = `SML_Presentation.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 311.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 311.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 388.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 388.
+ (./SML_Presentation.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 388.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 388.
+Package rerunfilecheck Info: File `SML_Presentation.out' has not changed.
+(rerunfilecheck)             Checksum: 1F36BFD392851847C6C602815C1CEC39;612.
 
-(./SML_Presentation.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 311.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 311.
-
-
-Package rerunfilecheck Warning: File `SML_Presentation.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `SML_Presentation.out':
-(rerunfilecheck)             Before: 15758512F5DE99746B6224935431D2C7;563
-(rerunfilecheck)             After:  823CDBBBEC209772C11E86E135608143;566.
 
 LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 17271 strings out of 492982
- 329646 string characters out of 6134895
- 398117 words of memory out of 5000000
- 20376 multiletter control sequences out of 15000+600000
+ 17338 strings out of 492982
+ 330616 string characters out of 6134895
+ 398324 words of memory out of 5000000
+ 20420 multiletter control sequences out of 15000+600000
  10695 words of font info for 39 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  56i,15n,62p,783b,570s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1074,10 +1126,10 @@ public/amsfonts/cm/cmssi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public
 /amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfo
 nts/cm/cmsy6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/
 cmsy8.pfb>
-Output written on SML_Presentation.pdf (17 pages, 2474116 bytes).
+Output written on SML_Presentation.pdf (22 pages, 2796411 bytes).
 PDF statistics:
- 646 PDF objects out of 1000 (max. 8388607)
- 579 compressed objects within 6 object streams
- 56 named destinations out of 1000 (max. 500000)
- 208 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 810 PDF objects out of 1000 (max. 8388607)
+ 725 compressed objects within 8 object streams
+ 73 named destinations out of 1000 (max. 500000)
+ 246 words of extra memory for PDF output out of 10000 (max. 10000000)
 

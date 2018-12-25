@@ -8,3 +8,4 @@
 \beamer@subsectionintoc {3}{1}{Training}{13}{0}{3}
 \beamer@subsectionintoc {3}{2}{Testing}{16}{0}{3}
 \beamer@sectionintoc {4}{Reward}{17}{0}{4}
+\beamer@sectionintoc {5}{Evaluation}{18}{0}{5}
