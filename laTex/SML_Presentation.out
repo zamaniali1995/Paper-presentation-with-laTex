@@ -1,0 +1,10 @@
+\BOOKMARK [2][]{Outline0.1}{Network modeling}{}% 1
+\BOOKMARK [2][]{Outline0.2}{Policy network}{}% 2
+\BOOKMARK [3][]{Outline0.2.1.6}{Feature extraction}{Outline0.2}% 3
+\BOOKMARK [3][]{Outline0.2.2.8}{convolutional layer}{Outline0.2}% 4
+\BOOKMARK [3][]{Outline0.2.3.10}{Softmax layer}{Outline0.2}% 5
+\BOOKMARK [3][]{Outline0.2.4.11}{Filter}{Outline0.2}% 6
+\BOOKMARK [2][]{Outline0.3}{Training and testing}{}% 7
+\BOOKMARK [3][]{Outline0.3.1.13}{Training}{Outline0.3}% 8
+\BOOKMARK [3][]{Outline0.3.2.16}{Testing}{Outline0.3}% 9
+\BOOKMARK [2][]{Outline0.4}{Reward}{}% 10
